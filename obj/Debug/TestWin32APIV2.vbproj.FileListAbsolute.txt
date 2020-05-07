@@ -1,0 +1,12 @@
+C:\Users\mehdi\source\repos\SocketTest\TestWin32APIV2\bin\Debug\TestWin32APIV2.exe.config
+C:\Users\mehdi\source\repos\SocketTest\TestWin32APIV2\bin\Debug\TestWin32APIV2.exe
+C:\Users\mehdi\source\repos\SocketTest\TestWin32APIV2\bin\Debug\TestWin32APIV2.pdb
+C:\Users\mehdi\source\repos\SocketTest\TestWin32APIV2\bin\Debug\TestWin32APIV2.xml
+C:\Users\mehdi\source\repos\SocketTest\TestWin32APIV2\obj\Debug\TestWin32APIV2.Form1.resources
+C:\Users\mehdi\source\repos\SocketTest\TestWin32APIV2\obj\Debug\TestWin32APIV2.Resources.resources
+C:\Users\mehdi\source\repos\SocketTest\TestWin32APIV2\obj\Debug\TestWin32APIV2.vbproj.GenerateResource.cache
+C:\Users\mehdi\source\repos\SocketTest\TestWin32APIV2\obj\Debug\TestWin32APIV2.vbproj.CoreCompileInputs.cache
+C:\Users\mehdi\source\repos\SocketTest\TestWin32APIV2\obj\Debug\TestWin32APIV2.exe
+C:\Users\mehdi\source\repos\SocketTest\TestWin32APIV2\obj\Debug\TestWin32APIV2.xml
+C:\Users\mehdi\source\repos\SocketTest\TestWin32APIV2\obj\Debug\TestWin32APIV2.pdb
+C:\Users\mehdi\source\repos\SocketTest\TestWin32APIV2\obj\Debug\TestWin32APIV2.T2.resources
